@@ -12,7 +12,7 @@ echo"<html>
        
 
 
-$id_empleado = $_POST["id_empleado"];
+$id_cocinero = $_POST["id_cocinero"];
 $id_cliente = $_POST["id_cliente"];
 $fec_venta = $_POST["fec_venta"];
 $monto_venta = $_POST["monto_venta"];
